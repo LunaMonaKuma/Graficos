@@ -1,0 +1,63 @@
+Prámetro	Resultado	Unidad				
+Profundidad de muestreos	20	(cm)				
+						
+Propiedades físicas del suelo						
+Prámetro	Sitio 1		Sitio 2			
+	Resultado	Interpretación	Resultado	Interpretación		
+Clase textural	Franco	-	Franco	-		
+Punto de saturación	56%	Alto	55%	Alto		
+Capacidad de campo	30%	Alto	29.40%	Alto		
+Punto de marchitez permanente	17.90%	Alto	17.50%	Alto		
+Conductividad hidráulica	2.3 cm/h	Moderadamente Bajo	2 cm/h	Bajo		
+Densidad aparente	1.06 g/cm3	-	1.08 g/cm3	-		
+pH (1:2 agua)	7.62	Moderadamente Alcalino	7.84	Moderadamente Alcalino		
+Carbonatos totales	1.41%	Muy Bajo	0.81%	Muy Bajo		
+Salinidad	1.37 dS/m	Moderadamente Bajo	0.85 dS/m	Bajo		
+						
+Fertilidad del suelo						
+Prámetro	Sitio 1		Sitio 2			
+	Resultado	Interpretación	Resultado	Interpretación		
+Materia orgánica (MO)	3.28%	Alto	3.92 ppm	Alto		
+P-Bray	3.87 ppm	Muy Bajo	1.03 ppm	Muy Bajo		
+K	588 ppm	Moderadamente Alto	389 ppm	Moderadamente Alto		
+Ca	2617 ppm	Moderadamente Alto	2988 ppm	Moderadamente Alto		
+Mg	198 ppm	Moderadamente Bajo	263 ppm	Medio		
+Na	<25 ppm	Muy Bajo	36.7 ppm	Muy Bajo		
+Fe 	25.8 ppm	Alto	16.2 ppm	Moderadamente Alto		
+Zn	3.25 ppm	Moderadamente Alto	1.59 ppm	Medio		
+Mn	10.3 ppm	Medio	14.4 ppm	Moderadamente Alto		
+Cu	1.28 ppm	Moderadamente Alto	1.03 ppm	Medio		
+B	0.46 ppm	Bajo	0.36 ppm	Bajo		
+S	14.4 ppm	Moderadamente Alto	18.3 ppm	Moderadamente Alto		
+N-NO3	52.2 ppm	Alto	14.1 ppm	Medio		
+						
+Relación entre cationes (Basadas en miliequivalentes/100g)						
+Relación	Sitio 1		Sitio 2			
+	Resultado	Interpretración	Resultado	Interpretración		
+Ca/K	8.73	Bajo	15.1	Alto		
+Mg/K	1.09	Bajo	2.18	Mediano		
+Ca+ Mg/K	9.82	Muy Bajo	17.2	Bajo		
+Ca/Mg	8.04	Muy Alto	6.9	Alto		
+						
+Cationes intercambiables (porcentaje de saturación de bases)						
+Catión	Sitio 1			Sitio 2		
+	% Saturación	me/100g	Interpretación	% Saturación	me/100g	Interpretación
+Ca	80.4	13.1	Moderadamente Alto	81.9	14.9	Alto
+Mg	10	1.63	Moderadamente Bajo	11.9	2.17	Medio
+K	9.2	1.5	Alto	5.44	0.99	Moderadamente Alto
+Na	0.43	0.07	Muy bajo	0.88	0.16	Muy bajo
+Capacidad de intercambio catiónic(CIC)	-	16.3	Medio	-	18.2	Medio
+						
+2 Resultado reportado de acuerdo al método determinación de bases intercambiables (Ca, Mg, Na, K) en suelo por extracción con acetato de amonio por						
+ICP-PLASMA. Método interno MET-SU-45.						
+						
+3 Resultado reportado de acuerdo al método determinación de micronutrientes (Cu, Fe, Mn, Zn) en suelo por extracción con DTPA y Sorbitol por ICP-PLASMA.						
+Método interno MET-SU-46.						
+						
+4 Escala de interpretacion de acuerdo al manual de interpretacion de analisis de suelos y aguas con ISBN:03-2015-042709572100-01.						
+Interpretación Resumida del Diagnóstico de la Fertilidad del Suelo						
+						
+Suelo con pH moderadamente alcalino. Suelo de textura media. Libre de carbonatos. Alto nivel de materia organica. Muy deficiente de fosforo. Suministro						
+considerable de nitrogeno inorganico.						
+						
+En cuanto a la disponibilidad de micronutrientes: Pobre en boro						
