@@ -1,0 +1,57 @@
+Alpha plot			
+Site	Alpha diversity measures (Mediana)		
+	Observed	Shannon	Simpson
+Sitio A	3438	7.03	0.9968
+Sitio B	3000	6.96	0.9957
+
+
+Lefse DOT		
+	Site A	Site B
+Genera	LDAscore(log10)	LDAscore(log10)
+Peptoniphilus	1.024	
+Rodentibacter	1.040	
+Adhaeribacter	1.048	
+Kribella	1.073	
+Pedobacter	1.097	
+Porphyromonas	1.121	
+Pseudonocardia	1.153	
+Agromyces	1.145	
+Cellulomonas	1.177	
+Fusobacterium	1.194	
+Bacillus	1.274	
+Microvirga	1.306	
+Streptomyces	1.371	
+Microbacterium	1.387	
+Solirubacter	1.927	
+Ligilactobacillus		1.030
+Bauldia		1.048
+Ellin6067		1.357
+
+
+
+PCO plot		
+Site	PC01 (23.4%)	PC02 (22.43%)
+Site A	-0.239583333	-0.055555556
+Site B	0.28125	0.25
+
+
+
+
+Relative abundanace group (%)		
+Genera	Site A	Site B
+Nocardioides	9.12	5.00
+Sphingomonas	2.35	6.23
+Pseudarthrobacter	5.29	2.25
+Gaiella	1.85	2.14
+Bacteroides	0.59	2.42
+Solirubrobacter	1.01	0.67
+Marmoricola	2.71	1.07
+Fusobacterium	2.74	0.00
+Arenimonas	0.00	2.55
+Knoellia	1.53	0.33
+Iamia	0.82	1.33
+Blautia	0.00	2.25
+Kribbella	1.97	0.00
+Streptomyces	1.41	0.00
+Blastococcus	0.50	0.14
+Others	68.11	73.64
