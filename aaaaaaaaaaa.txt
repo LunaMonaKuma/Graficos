@@ -1,33 +1,76 @@
-1. Metodología
-Se realizaron muestreos de dos vertederos clandestinos contaminados con residuos plásticos ubicados en el poblado de Mazamitla en Jalisco, México. El Sitio A se encuentra en la latitud norte 19°55’3.9972’’ y longitud oeste 103°01’31.7136’’, mientras que el Sitio B está ubicado en la latitud norte 19°54’46.4544’’ y longitud oeste 103°00’13.5828’’.
-En cada sitio, se recolectaron muestras de suelo (500 g) de cinco puntos distintos a una profundidad de 20 cm. Las muestras se procesaron para extraer ADN bacteriano el cual posteriormente se amplificó y secuenció. Las secuencias obtenidas se agruparon en unidades taxonómicas operativas (OTUs) y se analizaron para evaluar la diversidad y composición de las comunidades microbianas. Se calcularon los índices de diversidad alfa (Shannon y Simpson), se realizó un análisis de coordenadas principales (PCO) para evaluar la diversidad beta, y se examinó la abundancia relativa de los géneros microbianos. Además, se realizó un análisis LEfSe para identificar los géneros que mostraban diferencias significativas en su abundancia entre los dos sitios.
+1. MetodologÃ­a
+Se realizaron muestreos de dos vertederos clandestinos contaminados con residuos plÃ¡sticos ubicados en el poblado de Mazamitla en Jalisco, MÃ©xico. El Sitio A se encuentra en la latitud norte 19Â°55â€™3.9972â€™â€™ y longitud oeste 103Â°01â€™31.7136â€™â€™, mientras que el Sitio B estÃ¡ ubicado en la latitud norte 19Â°54â€™46.4544â€™â€™ y longitud oeste 103Â°00â€™13.5828â€™â€™.
+En cada sitio, se recolectaron muestras de suelo (500 g) de cinco puntos distintos a una profundidad de 20 cm. Las muestras se procesaron para extraer ADN bacteriano el cual posteriormente se amplificÃ³ y secuenciÃ³. Las secuencias obtenidas se agruparon en unidades taxonÃ³micas operativas (OTUs) y se analizaron para evaluar la diversidad y composiciÃ³n de las comunidades microbianas. Se calcularon los Ã­ndices de diversidad alfa (Shannon y Simpson), se realizÃ³ un anÃ¡lisis de coordenadas principales (PCO) para evaluar la diversidad beta, y se examinÃ³ la abundancia relativa de los gÃ©neros microbianos. AdemÃ¡s, se realizÃ³ un anÃ¡lisis LEfSe para identificar los gÃ©neros que mostraban diferencias significativas en su abundancia entre los dos sitios.
 
 
-Las muestras de suelo se analizaron en el laboratorio para determinar varias propiedades físicas y de fertilidad. Las propiedades físicas incluyeron la textura, el punto de saturación, la capacidad de campo, el punto de marchitez permanente, la conductividad hidráulica y la densidad aparente. Las propiedades de fertilidad incluyeron el pH, los carbonatos totales, la salinidad, la materia orgánica, el fósforo, el potasio, el calcio, el magnesio, el sodio, el hierro, el zinc, el manganeso, el cobre, el boro, el azufre y el nitrógeno. Las relaciones entre cationes y los cationes intercambiables se determinaron basándose en miliequivalentes/100g. 
+Las muestras de suelo se analizaron en el laboratorio para determinar varias propiedades fÃ­sicas y de fertilidad. Las propiedades fÃ­sicas incluyeron la textura, el punto de saturaciÃ³n, la capacidad de campo, el punto de marchitez permanente, la conductividad hidrÃ¡ulica y la densidad aparente. Las propiedades de fertilidad incluyeron el pH, los carbonatos totales, la salinidad, la materia orgÃ¡nica, el fÃ³sforo, el potasio, el calcio, el magnesio, el sodio, el hierro, el zinc, el manganeso, el cobre, el boro, el azufre y el nitrÃ³geno. Las relaciones entre cationes y los cationes intercambiables se determinaron basÃ¡ndose en miliequivalentes/100g. 
 
 2. Resultados
-Inicialmente, se evaluó la diversidad alfa, que es una medida de la diversidad de especies dentro de cada sitio. Para ello, se utilizaron los índices de Shannon y Simpson. El índice de Shannon, que considera tanto la riqueza como la equidad de las especies, fue de 7.03 para el Sitio A y de 6.96 para el Sitio B. Por otro lado, el índice de Simpson, que da más peso a las especies más abundantes, fue de 0.9968 para el Sitio A y de 0.9957 para el Sitio B. Estos valores indican una mayor diversidad y equidad de las especies en el Sitio A en comparación con el Sitio B.
+Inicialmente, se evaluÃ³ la diversidad alfa, que es una medida de la diversidad de especies dentro de cada sitio. Para ello, se utilizaron los Ã­ndices de Shannon y Simpson. El Ã­ndice de Shannon, que considera tanto la riqueza como la equidad de las especies, fue de 7.03 para el Sitio A y de 6.96 para el Sitio B. Por otro lado, el Ã­ndice de Simpson, que da mÃ¡s peso a las especies mÃ¡s abundantes, fue de 0.9968 para el Sitio A y de 0.9957 para el Sitio B. Estos valores indican una mayor diversidad y equidad de las especies en el Sitio A en comparaciÃ³n con el Sitio B.
 
-Figura 1. Comparación de la diversidad Alfa microbiana entre los dos sitios de estudio (Sitio A y Sitio B). La diversidad Alfa se muestra como una medida del índice de riqueza de especies de Shannon y el índice de dominancia de Simpson. Las cajas mostradas abarcan el rango intercuartil de todas las medidas, siendo la línea media la mediana de los índices calculados.
+Figura 1. ComparaciÃ³n de la diversidad Alfa microbiana entre los dos sitios de estudio (Sitio A y Sitio B). La diversidad Alfa se muestra como una medida del Ã­ndice de riqueza de especies de Shannon y el Ã­ndice de dominancia de Simpson. Las cajas mostradas abarcan el rango intercuartil de todas las medidas, siendo la lÃ­nea media la mediana de los Ã­ndices calculados.
 
-Posteriormente, se realizó un análisis de coordenadas principales (PCO) para evaluar la diversidad beta, que es una medida de la variación en la composición de especies entre los sitios. Los resultados del PCO indicaron una diferenciación clara entre las comunidades microbianas del Sitio A y del Sitio B. En términos de los dos primeros ejes principales, que explicaron el 23.4% y el 22.43% de la variación total, respectivamente, el Sitio A mostró valores de -0.239 y -0.055, mientras que el Sitio B mostró valores de 0.281 y 0.250. Estos resultados sugieren que la localización de los sitios de muestreo tiene un impacto significativo en la composición de las comunidades microbianas del suelo.
+Posteriormente, se realizÃ³ un anÃ¡lisis de coordenadas principales (PCO) para evaluar la diversidad beta, que es una medida de la variaciÃ³n en la composiciÃ³n de especies entre los sitios. Los resultados del PCO indicaron una diferenciaciÃ³n clara entre las comunidades microbianas del Sitio A y del Sitio B. En tÃ©rminos de los dos primeros ejes principales, que explicaron el 23.4% y el 22.43% de la variaciÃ³n total, respectivamente, el Sitio A mostrÃ³ valores de -0.239 y -0.055, mientras que el Sitio B mostrÃ³ valores de 0.281 y 0.250. Estos resultados sugieren que la localizaciÃ³n de los sitios de muestreo tiene un impacto significativo en la composiciÃ³n de las comunidades microbianas del suelo.
 
-Figura 2. Análisis de coordenadas principales (PCoA) de las distancias entre las comunidades microbianas. Los grupos se basan en los dos sitios de muestreo, Sitio A y Sitio B. Las muestras de los dos sitios se agruparon por separado. 
+Figura 2. AnÃ¡lisis de coordenadas principales (PCoA) de las distancias entre las comunidades microbianas. Los grupos se basan en los dos sitios de muestreo, Sitio A y Sitio B. Las muestras de los dos sitios se agruparon por separado. 
 
-Además, se examinó la abundancia relativa de los géneros microbianos en cada sitio. Este análisis reveló que los géneros más abundantes variaban entre los dos sitios. En el Sitio A, el género más abundante fue Nocardioides, que representaba el 9.12% de la comunidad microbiana, seguido de Pseudarthrobacter (5.29%) y Fusobacterium (2.74%). Por otro lado, en el Sitio B, el género más abundante fue Sphingomonas, que representaba el 6.23% de la comunidad microbiana, seguido de Bacteroides (2.42%) y Arenimonas (2.55%).
+AdemÃ¡s, se examinÃ³ la abundancia relativa de los gÃ©neros microbianos en cada sitio. Este anÃ¡lisis revelÃ³ que los gÃ©neros mÃ¡s abundantes variaban entre los dos sitios. En el Sitio A, el gÃ©nero mÃ¡s abundante fue Nocardioides, que representaba el 9.12% de la comunidad microbiana, seguido de Pseudarthrobacter (5.29%) y Fusobacterium (2.74%). Por otro lado, en el Sitio B, el gÃ©nero mÃ¡s abundante fue Sphingomonas, que representaba el 6.23% de la comunidad microbiana, seguido de Bacteroides (2.42%) y Arenimonas (2.55%).
 
-Figura 3. Abundancia relativa de los géneros microbianos en los Sitios A y B. La figura muestra la proporción de los géneros más abundantes en las comunidades de cada sitio. 
+Figura 3. Abundancia relativa de los gÃ©neros microbianos en los Sitios A y B. La figura muestra la proporciÃ³n de los gÃ©neros mÃ¡s abundantes en las comunidades de cada sitio. 
 
-Finalmente, se realizó un análisis LEfSe para identificar los géneros que mostraban diferencias significativas en su abundancia entre los dos sitios. Este análisis reveló varios géneros que eran más prevalentes en un sitio que en el otro. En el Sitio A, se identificaron varios géneros con un valor de LDAscore (log10) superior a 1, lo que indica una mayor abundancia relativa en comparación con el Sitio B. Estos géneros incluyen Solirubacter (1.927), Microbacterium (1.387), Streptomyces (1.371), y Microvirga (1.306). Por otro lado, en el Sitio B, el género con mayor LDAscore fue Ellin6067 (1.357), seguido de Bauldia (1.048) y Ligilactobacillus (1.030). Estos valores indican que estos géneros eran más prevalentes en el Sitio B en comparación con el Sitio A.
+Finalmente, se realizÃ³ un anÃ¡lisis LEfSe para identificar los gÃ©neros que mostraban diferencias significativas en su abundancia entre los dos sitios. Este anÃ¡lisis revelÃ³ varios gÃ©neros que eran mÃ¡s prevalentes en un sitio que en el otro. En el Sitio A, se identificaron varios gÃ©neros con un valor de LDAscore (log10) superior a 1, lo que indica una mayor abundancia relativa en comparaciÃ³n con el Sitio B. Estos gÃ©neros incluyen Solirubacter (1.927), Microbacterium (1.387), Streptomyces (1.371), y Microvirga (1.306). Por otro lado, en el Sitio B, el gÃ©nero con mayor LDAscore fue Ellin6067 (1.357), seguido de Bauldia (1.048) y Ligilactobacillus (1.030). Estos valores indican que estos gÃ©neros eran mÃ¡s prevalentes en el Sitio B en comparaciÃ³n con el Sitio A.
 
-Figura 4. Diferencias en la abundancia de géneros microbianos entre los Sitios A y B según el análisis LEfSe. Los géneros con un valor de LDAscore (log10) superior a 1 se consideraron significativamente más abundantes en un sitio en comparación con el otro. Los datos representan la abundancia relativa de cada género en cada sitio.
+Figura 4. Diferencias en la abundancia de gÃ©neros microbianos entre los Sitios A y B segÃºn el anÃ¡lisis LEfSe. Los gÃ©neros con un valor de LDAscore (log10) superior a 1 se consideraron significativamente mÃ¡s abundantes en un sitio en comparaciÃ³n con el otro. Los datos representan la abundancia relativa de cada gÃ©nero en cada sitio.
 
 
-El estudio de las propiedades físicas y de fertilidad en los Sitios A y B reveló diferencias y similitudes que pueden influir en la composición de microorganismos. Ambos sitios presentaron una textura franco, indicativa de un hábitat propicio para una diversidad de microorganismos. En cuanto a la fertilidad del suelo, ambos sitios exhibieron altos niveles de materia orgánica, esencial para la nutrición microbiana. Sin embargo, la presencia de fósforo fue muy baja en ambos sitios, lo que podría limitar el crecimiento microbiano. La conductividad hidráulica, indicativa de la disponibilidad de agua para los microorganismos, fue moderadamente baja en el Sitio A y baja en el Sitio B. En cuanto al pH, ambos sitios fueron moderadamente alcalinos, lo que puede favorecer el crecimiento de ciertos grupos de microorganismos sobre otros. En términos de nutrientes, la presencia de nitrógeno inorgánico fue alta en el Sitio A y media en el Sitio B, lo que puede influir en la abundancia microbiana. En cuanto a la disponibilidad de micronutrientes, ambos sitios fueron pobres en B, un micronutriente esencial para las plantas. Aunque su papel en la microbiología del suelo no está bien establecido, su baja disponibilidad puede tener un impacto en la composición microbiana.
+El estudio de las propiedades fÃ­sicas y de fertilidad en los Sitios A y B revelÃ³ diferencias y similitudes que pueden influir en la composiciÃ³n de microorganismos. Ambos sitios presentaron una textura franco, indicativa de un hÃ¡bitat propicio para una diversidad de microorganismos. En cuanto a la fertilidad del suelo, ambos sitios exhibieron altos niveles de materia orgÃ¡nica, esencial para la nutriciÃ³n microbiana. Sin embargo, la presencia de fÃ³sforo fue muy baja en ambos sitios, lo que podrÃ­a limitar el crecimiento microbiano. La conductividad hidrÃ¡ulica, indicativa de la disponibilidad de agua para los microorganismos, fue moderadamente baja en el Sitio A y baja en el Sitio B. En cuanto al pH, ambos sitios fueron moderadamente alcalinos, lo que puede favorecer el crecimiento de ciertos grupos de microorganismos sobre otros. En tÃ©rminos de nutrientes, la presencia de nitrÃ³geno inorgÃ¡nico fue alta en el Sitio A y media en el Sitio B, lo que puede influir en la abundancia microbiana. En cuanto a la disponibilidad de micronutrientes, ambos sitios fueron pobres en B, un micronutriente esencial para las plantas. Aunque su papel en la microbiologÃ­a del suelo no estÃ¡ bien establecido, su baja disponibilidad puede tener un impacto en la composiciÃ³n microbiana.
 
-Propiedades físicas del sueloParámetroSitio 1Sitio 2ResultadoInterpretaciónResultadoInterpretaciónClase texturalFranco-Franco-Punto de saturación56%Alto55%AltoCapacidad de campo30%Alto29.40%AltoPunto de marchitez permanente17.90%Alto17.50%AltoConductividad hidráulica2.3 cm/hModeradamente Bajo2 cm/hBajoDensidad aparente1.06 g/cm3-1.08 g/cm3-pH (1:2 agua)7.62Moderadamente Alcalino7.84Moderadamente AlcalinoCarbonatos totales1.41%Muy Bajo0.81%Muy BajoSalinidad1.37 dS/mModeradamente Bajo0.85 dS/mBajoFertilidad del sueloPrámetroSitio 1Sitio 2ResultadoInterpretaciónResultadoInterpretaciónMateria orgánica (MO)3.28%Alto3.92 ppmAltoP-Bray3.87 ppmMuy Bajo1.03 ppmMuy BajoK588 ppmModeradamente Alto389 ppmModeradamente AltoCa2617 ppmModeradamente Alto2988 ppmModeradamente AltoMg198 ppmModeradamente Bajo263 ppmMedioNa<25 ppmMuy Bajo36.7 ppmMuy BajoFe 25.8 ppmAlto16.2 ppmModeradamente AltoZn3.25 ppmModeradamente Alto1.59 ppmMedioMn10.3 ppmMedio14.4 ppmModeradamente AltoCu1.28 ppmModeradamente Alto1.03 ppmMedioB0.46 ppmBajo0.36 ppmBajoS14.4 ppmModeradamente Alto18.3 ppmModeradamente AltoN-NO352.2 ppmAlto14.1 ppmMedio
+Respecto a los cationes intercambiables, el Sitio A mostrÃ³ una alta saturaciÃ³n de Ca2+ y K+, con una saturaciÃ³n moderadamente baja de Mg2+ y muy baja de Na+. En el Sitio B, la saturaciÃ³n de Ca2+ fue alta, la de Mg2+ media, la de K+ moderadamente alta y la de Na+ muy baja. Estas diferencias en la saturaciÃ³n de cationes pueden afectar la composiciÃ³n de las comunidades microbianas en cada sitio.
 
-Respecto a los cationes intercambiables, el Sitio A mostró una alta saturación de Ca2+ y K+, con una saturación moderadamente baja de Mg2+ y muy baja de Na+. En el Sitio B, la saturación de Ca2+ fue alta, la de Mg2+ media, la de K+ moderadamente alta y la de Na+ muy baja. Estas diferencias en la saturación de cationes pueden afectar la composición de las comunidades microbianas en cada sitio.
+Propiedades fÃ­sicas del suelo				
+PrÃ¡metro	Sitio 1		Sitio 2	
+	Resultado	InterpretaciÃ³n	Resultado	InterpretaciÃ³n
+Clase textural	Franco	-	Franco	-
+Punto de saturaciÃ³n	56%	Alto	55%	Alto
+Capacidad de campo	30%	Alto	29.40%	Alto
+Punto de marchitez permanente	17.90%	Alto	17.50%	Alto
+Conductividad hidrÃ¡ulica	2.3 cm/h	Moderadamente Bajo	2 cm/h	Bajo
+Densidad aparente	1.06 g/cm3	-	1.08 g/cm3	-
+pH (1:2 agua)	7.62	Moderadamente Alcalino	7.84	Moderadamente Alcalino
+Carbonatos totales	1.41%	Muy Bajo	0.81%	Muy Bajo
+Salinidad	1.37 dS/m	Moderadamente Bajo	0.85 dS/m	Bajo
+Fertilidad del suelo				
+PrÃ¡metro	Sitio 1		Sitio 2	
+	Resultado	InterpretaciÃ³n	Resultado	InterpretaciÃ³n
+Materia orgÃ¡nica (MO)	3.28%	Alto	3.92 ppm	Alto
+P-Bray	3.87 ppm	Muy Bajo	1.03 ppm	Muy Bajo
+K	588 ppm	Moderadamente Alto	389 ppm	Moderadamente Alto
+Ca	2617 ppm	Moderadamente Alto	2988 ppm	Moderadamente Alto
+Mg	198 ppm	Moderadamente Bajo	263 ppm	Medio
+Na	<25 ppm	Muy Bajo	36.7 ppm	Muy Bajo
+Fe 	25.8 ppm	Alto	16.2 ppm	Moderadamente Alto
+Zn	3.25 ppm	Moderadamente Alto	1.59 ppm	Medio
+Mn	10.3 ppm	Medio	14.4 ppm	Moderadamente Alto
+Cu	1.28 ppm	Moderadamente Alto	1.03 ppm	Medio
+B	0.46 ppm	Bajo	0.36 ppm	Bajo
+S	14.4 ppm	Moderadamente Alto	18.3 ppm	Moderadamente Alto
+N-NO3	52.2 ppm	Alto	14.1 ppm	Medio
 
-Relación entre cationes (Basadas en miliequivalentes/100g)RelaciónSitio 1Sitio 2ResultadoInterpretraciónResultadoInterpretraciónCa/K8.73Bajo15.1AltoMg/K1.09Bajo2.18MedianoCa+ Mg/K9.82Muy Bajo17.2BajoCa/Mg8.04Muy Alto6.9AltoCationes intercambiables (porcentaje de saturación de bases)CatiónSitio 1Sitio 2% Saturaciónme/100gInterpretación% Saturaciónme/100gInterpretaciónCa80.413.1Moderadamente Alto81.914.9AltoMg101.63Moderadamente Bajo11.92.17MedioK9.21.5Alto5.440.99Moderadamente AltoNa0.430.07Muy bajo0.880.16Muy bajoCapacidad de intercambio catiónic(CIC)-16.3Medio-18.2Medio
 
+
+
+RelaciÃ³n entre cationes (Basadas en miliequivalentes/100g)						
+RelaciÃ³n	Sitio 1			Sitio 2		
+	Resultado	InterpretraciÃ³n		Resultado	InterpretraciÃ³n	
+Ca/K	8.73	Bajo		15.1	Alto	
+Mg/K	1.09	Bajo		2.18	Mediano	
+Ca+ Mg/K	9.82	Muy Bajo		17.2	Bajo	
+Ca/Mg	8.04	Muy Alto		6.9	Alto	
+Cationes intercambiables (porcentaje de saturaciÃ³n de bases)						
+CatiÃ³n	Sitio 1			Sitio 2		
+	% SaturaciÃ³n	me/100g	InterpretaciÃ³n	% SaturaciÃ³n	me/100g	InterpretaciÃ³n
+Ca	80.4	13.1	Moderadamente Alto	81.9	14.9	Alto
+Mg	10	1.63	Moderadamente Bajo	11.9	2.17	Medio
+K	9.2	1.5	Alto	5.44	0.99	Moderadamente Alto
+Na	0.43	0.07	Muy bajo	0.88	0.16	Muy bajo
+Capacidad de intercambio catiÃ³nic(CIC)	-	16.3	Medio	-	18.2	Medio
