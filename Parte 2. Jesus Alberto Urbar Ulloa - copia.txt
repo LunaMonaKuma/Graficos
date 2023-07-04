@@ -1,0 +1,52 @@
+7. Metodología
+7.01 Metodología general
+A.  Búsqueda de degradadores de LDPE y/o PP
+	a. Identificación metagenómica en el vertedero público “El Iztete”.
+	b. Muestreo de suelo.
+	c. Extracción de ADN genómico.
+	d. Secuenciación de 16S e ITS.
+	e. Expresión heteróloga de enzimas de interés.
+ 	f. Tratamiento de la base de datos obtenida.
+ 	g. Identificación de candidatos para la degradación de plásticos.
+B. Indagación en la posible interacción de T. sanguineus con el LDPE y el PP. 
+	a. Fermentación de LDPE y PP mediante extracto enzimático de T. sanguineus
+	b. Indagación en las condiciones óptimas para la fermentación
+	c. Segunda fermentación con nuevas condiciones experimentales
+	d. Indagación en la interacción molecular enzima/plástico
+
+7.1. Identificación metagenómica en el vertedero público “El Iztete”.
+	7.1.1. Muestreo de suelo.
+El muestreo de suelo se realizó en el vertedero público “El Iztete”, ubicado en Cam. A Bellavista, 63501, Tepic, Nayarit, México (21.559287, -104.893574). El proceso de muestreo consistió en la recolección de aproximadamente 30 g del horizonte B del suelo (25 cm de profundidad), dónde se tomaron tres replicas cada 20 metros para tener un total de 33 muestras. Las mismas serán trituradas y combinadas para obtener un conjunto total del muestreo de suelo de “El Iztete”.
+
+	7.1.2. Extracción de ADN genómico.
+La extracción de ADN genómico se realizará utilizando métodos enzimáticos (lizosima, liticasa, proteinasa y RNAasa), químicos (SDS 20%, acetato de potasio y fenol-cloroformo) y físico-mecánicos (agitación y choques térmicos) con el fin de lisar las estructuras celulares y poder acceder al material genómico. Una vez extraído, el ADN genómico obtenido se utilizará como templado para la amplificación de los genes 16S, para el caso de bacterias, y 5.8S para las levaduras y hongos mediante PCR en tiempo final (Figura 3).
+
+	7.1.3. Secuenciación de 16S e ITS a partir del DNA genómico extraído del suelo.
+La secuenciación de las regiones conservadas 16S e ITS a partir de la extracción de DNA genómico se realizará con la compañía “Novagene” mediante el método de secuenciación metagenómica de amplicón, método efectivo para investigar a la diversas microbiológica presente en la muestra.
+
+	7.1.4. Tratamiento de la base de datos obtenida.
+Una vez obtenidos los resultados de la secuenciación, es necesario el análisis de las lecturas obtenidas comparando con secuencias conocidas con el fin de realizar una identificación taxonómica y estudiar la diversidad microbiológica de la composición del suelo.
+
+	7.1.5. Identificación de candidatos para la degradación de plásticos.
+Para identificar los candidatos para la degradación enzimática de plásticos será necesaria la comparación de los proteomas de los microorganismos encontrados en el análisis metagenómico con respecto a secuencias consenso de enzimas de referencia utilizando un modelo oculto de Markov (HMM, por sus siglas en inglés).
+
+	7.2. Interacción de extracto enzimático de T. sanguineus con el LDPE y PP.
+
+		7.2.1. Degradación de LDPE y PP
+El extracto enzimático de T. sanguineus fue obtenido mediante el crecimiento del hongo en vinazas provenientes del proceso de elaboración de tequila. La obtención del mismo se realiza colocando 2 litros de vinazas inoculadas con biomasa al 10% v/v, obtenida de una fermentación de 5 días a 30ºC, presión atmosférica y agitación constante (220 rpm).Al finalizar la fermentación, la biomasa es separada del medio de cultivo mediante centrifugación para la obtención del extracto enzimático.
+La degradación de plástico mediante el extracto enzimático de T. sanguineus se describe a continuación. En primer lugar, las piezas de 1 cm2 de LDPE o PP, con o sin pretratamiento con luz ultravioleta (UV) (exposición de 24 horas), son secadas por 12 horas, por triplicado,. Una vez secas, las piezas son pesadas para después ser colocadas en frascos ambar de 25 mL junto con una solución compuesta por 3 mL de buffer de acetatos pH 4.5, 10% v/v de glicerol y 1 mL de extracto enzimático de T. sanguineus. La degradación tuvo una duración de 96 horas a 30ºC y agitación constante (200 rpm).
+Pasada las 96 horas, las piezas plásticas son separadas de la solución, lavadas con etanol 70%, agitadas por 5 minutos para una sonicación posterior durante 90 minutos. Consecutivamente, se realiza un segundo lavado con dodecilsulfato sódico (SDS) 20% repitiendo la agitación y una sonicación por 180 minutos.
+Finalmente, los plásticos se secan durante 24 horas a 60ºC para después ser pesadas y compararlas con los pesos iniciales.
+
+		7.2.2. Condiciones óptimas del extracto enzimático
+Las condiciones de fermentación del extracto enzimático de T. sanguineus serán evaluadas en función de la temperatura y pH. Se evaluó la fermentación a 30, 40 y 50ºC en conjunto con distintos buffers a pH 2, 3, 7, 10, 12 y el control positivo (pH 4.5). La solución de fermentación a evaluar estaba compuesta por 600 ?L de buffer a distintos pH y 200 ?L del extracto enzimático de T. sanguineus en vinazas.
+La medición de la actividad lacasa se realizará mediante espectrofotometría utilizando ABTS 1 mM, buffer a distintos pH y la solución previamente mencionada utilizando una microplaca de 96 pocillos.
+
+		7.2.3. Degradación con nuevas condiciones experimentales.
+Las nuevas condiciones experimentales serán determinadas en función de los resultados obtenidos con las condiciones óptimas para el extracto enzimático. Ésta se realizará en un periodo de noventa y seis horas realizando una medición de la actividad lacasa cada hora durante las primeras seis horas de fermentación para después realizar una medición cada doce horas hasta llegar a las noventa y seis horas.
+
+		7.2.4. Interacción molecular enzima/plástico.
+La interacción de la lacasa de T. sanguineus (NCBI accession number: AAR924639) con LDPE y/o PP será analizada mediante un modelo de estructura terciaria predicha por AlphaFold 2 (J. Jumper, 2021) y una estructura optimizada de las cadenas poliméricas del LDPE y el PP. El docking molecular se realizará utilizando Autodock (Morris et al., 1999) para la predicción de posibles sitios de interacción entre la lacasa y los plásticos analizados.
+
+	7.3. Expresión heteróloga de las enzimas de interés.
+Una vez seleccionadas las enzimas de interés obtenidas en los análisis previos, se obtendrá la secuencia de las mismas para después ser introducidas en un vector de clonación y expresadas en un microorganismo modelo por definir con el fin de analizar su potencial como degradador de plásticos y evaluar la posibilidad de potenciar su actividad.
